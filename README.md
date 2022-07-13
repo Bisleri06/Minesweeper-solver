@@ -1,7 +1,7 @@
 # Minesweeper-solver
 A simple c++ program to solve minsweeper with moderate probability
 
-<h4>Note: The code only works for mines percentage upto 20% of total cells, after which the probability of winning reduces drastically</h4>
+<h4>Note: The code only works for mines percentage upto 12% of total cells, after which the probability of winning reduces drastically</h4>
 
 <h3>Instructions:</h3>
 Enter the length of the side of the mine matrix<br/>
